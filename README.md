@@ -7,7 +7,6 @@
 
 https://movie-dj-app.herokuapp.com/
 
-
 ## Initial Setup Instructions
 
 ### Setup Python Virtual Environment
