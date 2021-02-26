@@ -1,4 +1,4 @@
-# Clever Movie Full Stack App
+# Movie Full Stack App
 
 * Users can add, delete, and edit existing movies
 * Users can look for existing movies
